@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Egg">
+        <attr name="radius" format="integer"/>
+        <attr name="bodyColor" format="integer"/>
+        <attr name="border" format="boolean"/>
+        <attr name="label" format="string"/>
+    </declare-styleable>
+</resources>
